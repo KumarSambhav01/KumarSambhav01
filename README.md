@@ -81,9 +81,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KumarSambhav01&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=KumarSambhav01&theme=tokyonight&hide_border=true" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumarSambhav01&theme=tokyonight&layout=compact&hide_border=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KumarSambhav01&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://streak-stats.demolab.com?user=KumarSambhav01&theme=tokyonight&hide_border=true" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumarSambhav01&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" />
 </p>
 
 ---
@@ -91,16 +91,31 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KumarSambhav01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KumarSambhav01&theme=tokyonight&no-frame=true&margin-w=6&column=4" />
 </p>
 
 ---
 
-## 🔝 Top Contributed Repos
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=KumarSambhav01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KumarSambhav01&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
 
+### ✍️ Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=KumarSambhav01&icon=5&color=12" />
+  </a>
+</p>
+
+<p align="center">⭐ If you find my projects interesting, feel free to connect and explore my repositories!</p>
