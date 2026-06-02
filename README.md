@@ -118,4 +118,4 @@
   </a>
 </p>
 
-<p align="center">⭐ If you find my projects interesting, feel free to connect and explore my repositories!</p>
+
